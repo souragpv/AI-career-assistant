@@ -1,0 +1,6 @@
+google-genai
+streamlit
+flask
+python-dotenv
+PyPDF2
+requests
